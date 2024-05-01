@@ -21,15 +21,15 @@ public class ContaTerminal {
         String nomeCliente = scanner.next();
         Utils.validarNome(nomeCliente);
 
-        System.out.println("Digite o número da conta: ");
+        System.out.println("Digite o número da conta: (Ex: 123456)");
         int numeroConta = scanner.nextInt();
         Utils.validarNumeroConta(numeroConta);
 
-        System.out.println("Digite qual é sua agencia: ");
+        System.out.println("Digite qual é sua agencia: (Ex: 1234)");
         String agencia = scanner.next();
         Utils.validarAgencia(agencia);
 
-        System.out.println("Digite seu saldo inicial: ");
+        System.out.println("Digite seu saldo inicial: (Ex: 123,45)");
         double saldo = scanner.nextDouble();
         Utils.validarSaldo(saldo);
 
