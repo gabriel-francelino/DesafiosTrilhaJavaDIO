@@ -1,4 +1,4 @@
-package op_basicas.carrinho_compras;
+package list.op_basicas.carrinho_compras;
 
 public class Teste {
     public static void main(String[] args) {

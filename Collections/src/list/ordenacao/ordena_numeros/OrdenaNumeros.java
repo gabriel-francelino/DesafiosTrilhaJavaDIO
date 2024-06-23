@@ -1,4 +1,4 @@
-package ordenacao.ordena_numeros;
+package list.ordenacao.ordena_numeros;
 
 import java.util.ArrayList;
 import java.util.Collections;

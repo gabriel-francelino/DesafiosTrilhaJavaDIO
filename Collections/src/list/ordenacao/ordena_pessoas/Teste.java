@@ -1,4 +1,4 @@
-package ordenacao.ordena_pessoas;
+package list.ordenacao.ordena_pessoas;
 
 public class Teste {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package op_basicas.lista_tarefas;
+package list.op_basicas.lista_tarefas;
 
 public class Teste {
     public static void main(String[] args) {

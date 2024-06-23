@@ -1,4 +1,4 @@
-package ordenacao.ordena_numeros;
+package list.ordenacao.ordena_numeros;
 
 public class Teste {
     public static void main(String[] args) {
